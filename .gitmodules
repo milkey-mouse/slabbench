@@ -1,0 +1,6 @@
+[submodule "slab"]
+	path = slab
+	url = https://github.com/tokio-rs/slab.git
+[submodule "stable-vec"]
+	path = stable-vec
+	url = https://github.com/LukasKalbertodt/stable-vec.git

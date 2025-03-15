@@ -1,0 +1,9 @@
+[workspace]
+members = [
+    "slabbench",
+]
+exclude = [
+    "slab",
+    "stable-vec",
+]
+resolver = "3"
