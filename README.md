@@ -70,6 +70,8 @@ cargo bench
 
 Benchmark results are stored in `target/criterion/` with interactive HTML reports.
 
+Results on a M4 MacBook Pro are committed and available [here](https://milkey-mouse.github.io/slabbench/target/criterion/report/).
+
 ## Benchmark Results
 
 Below are the benchmark results from comparing `slab` and `stable-vec` across different workloads and collection sizes.
